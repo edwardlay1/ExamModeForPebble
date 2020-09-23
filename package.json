@@ -1,0 +1,28 @@
+{
+    "author": "edtechl@outlook.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "exam-mode",
+    "pebble": {
+        "displayName": "Exam Mode",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "37f6e9aa-38c7-4968-b670-35ef02a50d0c",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
